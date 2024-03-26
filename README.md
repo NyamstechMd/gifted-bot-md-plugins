@@ -18,7 +18,7 @@
 
 <h3></h3> Create your own plugins and join group to add that plugin in repo.<h3/>
 
-# <b>Join Whatsapp Group: ([@Here](https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew))<b/>
+# <b>Join Whatsapp Group: ([@Here](https://chat.whatsapp.com/FPzB9wRD9RN4Zk2y2rnH3S))<b/>
 
 # Usage:
 <h3>Just copy any plugin of your choice and paste in your whatsapp integrated bot account</h3>
